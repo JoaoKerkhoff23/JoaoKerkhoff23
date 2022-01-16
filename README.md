@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoKerkhoff23.
-- 👀 I’m interested in programing and learning new things
-- 🌱 I’m currently learning python, JavaScript, HTML and CSS.
+- 👀 I’m interested in programing and learning new things.
+- 🌱 I’m currently learning python, JavaScript, HTML and CSS (I'm a begginer so any advice would be awesome)
 - 💞️ I’m looking to collaborate on any projects that could help me develop experience. 
-- 📫 How to reach me: Email- jpkerkhoff2004.com and my Instagram @jpkerkhoff 
-- 😁 PS: contact me anytime 
+- 📫 How to reach me: Email- jpkerkhoff2004.com and my Instagram @jpkerkhoff. 
+- 😁 PS: contact me anytime. 
